@@ -1,0 +1,5 @@
+- https://tailwindcss.com
+- https://getbootstrap.com
+- https://laravel.com
+- https://www.apachefriends.org/download.html
+- https://herd.laravel.com/
